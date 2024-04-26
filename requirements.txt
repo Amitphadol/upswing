@@ -1,0 +1,9 @@
+fastapi==0.95.2
+pytest==7.3.1
+pytest-asyncio==0.21.1
+pytest-cov==4.0.0
+pydantic==1.9.2
+pika
+pymongo
+uvicorn==0.20.0
+uvloop==0.17.0
